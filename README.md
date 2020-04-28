@@ -1,5 +1,5 @@
 # react-hooks-starter
-React Hooks Demo Project that implements all the frequently used Hooks.
+React Hooks Demo Project that implements all the frequently used Hooks like useState, useEffect, useCallback, useReducer, useRef, useContext.
 ## Available Scripts
 
 In the project directory, you can run:
